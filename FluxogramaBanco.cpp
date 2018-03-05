@@ -40,6 +40,7 @@ if(senha!=12345)
 else
 {
 start:
+ system("cls");      
 printf("\nDigite o valor a ser sacado\n");
 scanf("%d",&valor);
 }
